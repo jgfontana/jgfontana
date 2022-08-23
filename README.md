@@ -9,8 +9,3 @@
 
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jgfontana&theme=react-dark&color=0f67c1)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center">
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{jgfontana}/count.svg" /></p> 
-<br></div>
