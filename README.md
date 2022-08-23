@@ -48,3 +48,5 @@
 <br>
 
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jgfontana&theme=react-dark&color=0f67c1)
+
+<img width=100% src="https://raw.githubusercontent.com/gist/jgfontana/79b1f3dfd91b50acffba9e0f995a2720/raw/4ad2305074af0c74eb5f81f528ddbcc3cb7be5ee/githubfooter.svg"/> 
