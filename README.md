@@ -47,8 +47,17 @@
 
 ### Socials
 <div>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-fontana-02169b228/" target="_blank" rel="noreferrer">
+    <img align="center" alt="joao-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
+  </a>
   <a href="https://www.facebook.com/joaogfontana" target="_blank" rel="noreferrer">
     <img align="center" alt="joao-facebook" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg">
+  </a>
+  <a href="https://twitter.com/joaogfontana" target="_blank" rel="noreferrer">
+    <img align="center" alt="joao-twitter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg">
+  </a>
+  <a href="[https://twitter.com/joaogfontana](https://www.instagram.com/joaogfontana/)" target="_blank" rel="noreferrer">
+    <img align="center" alt="joao-instagram" height="30" width="30" src="https://static.cdninstagram.com/rsrc.php/v3/yR/r/lam-fZmwmvn.png">
   </a>
 </div
 
