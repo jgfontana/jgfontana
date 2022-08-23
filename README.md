@@ -24,9 +24,27 @@
   <img align="center" alt="joao-vuejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="joao-vuetify" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuetify/vuetify-original.svg">
   <img align="center" alt="joao-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="joao-nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="joao-material-ui" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg">
 </div>
-  
-##
+<div>
+  <br>
+   <img align="center" alt="joao-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+   <img align="center" alt="joao-postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+</div>
+<div>
+  <br>
+  <img align="center" alt="joao-ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
+  <img align="center" alt="joao-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="joao-composer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg">
+  <img align="center" alt="joao-npm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
+  <img align="center" alt="joao-yarn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg">
+  <img align="center" alt="joao-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="joao-github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="joao-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+</div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jgfontana&theme=react-dark&color=0f67c1)](https://github.com/ashutosh00710/github-readme-activity-graph)
+##
+<br>
+
+![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jgfontana&theme=react-dark&color=0f67c1)
