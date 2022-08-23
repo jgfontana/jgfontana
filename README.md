@@ -47,7 +47,7 @@
 
 ### Socials
 <div>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-fontana-02169b228/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-fontana-02169b228/" target="_blank">
     <img align="center" alt="joao-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
   </a>
   <a href="https://www.facebook.com/joaogfontana" target="_blank" rel="noreferrer">
