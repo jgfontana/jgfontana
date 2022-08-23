@@ -8,7 +8,8 @@
 </div>
 
 ##
-<div><br>
+### Skills
+<div>
   <img align="center" alt="joao-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="joao-laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
   <img align="center" alt="joao-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
@@ -43,6 +44,14 @@
   <img align="center" alt="joao-github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="joao-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
+
+### Socials
+<div>
+  <br>
+  <a href="https://www.facebook.com/joaogfontana" target="_blank" rel="noreferrer">
+    <img align="center" alt="joao-facebook" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg">
+  </a>
+</div
 
 ##
 <br>
