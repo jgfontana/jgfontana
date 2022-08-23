@@ -47,7 +47,6 @@
 
 ### Socials
 <div>
-  <br>
   <a href="https://www.facebook.com/joaogfontana" target="_blank" rel="noreferrer">
     <img align="center" alt="joao-facebook" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg">
   </a>
