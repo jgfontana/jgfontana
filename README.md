@@ -1,11 +1,4 @@
 <img width=100% src="https://raw.githubusercontent.com/gist/jgfontana/a6b8d695d9c504516d4a7cafc0e88b42/raw/0235693f73d502382459a6a86c70cfbde12aac8f/githubheader.svg"/> 
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-jgfontana.vercel.app/api?username=jgfontana&count_private=true&show_icons=true&title_color=0f67c1&bg_color=0d1117&icon_color=0f67c1&text_color=5bcdec&hide_border=true" alt="jgfontana github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats-jgfontana.vercel.app/api/top-langs/?username=jgfontana&layout=compact&hide_border=true&title_color=0f67c1&text_color=5bcdec&bg_color=0d1117&langs_count=10" />
-</div>
-
-##
 ### Skills
 <div>
   <img align="center" alt="joao-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
